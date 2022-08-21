@@ -1,0 +1,12 @@
+.ql-toolbar{
+    border-radius: 10px 10px 0px 0px;
+    background-color: #f0f0f0;
+    width: 900px;
+}
+.ql-container{
+    height: calc(100vh + -15rem) !important;
+    /*height: inherit !important;*/
+    background-color: white;
+    width: 900px;
+    border-radius: 0px 0px 10px 10px;
+}

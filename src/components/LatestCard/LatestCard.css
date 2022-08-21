@@ -1,0 +1,4 @@
+.LatestCard {}
+.hover-backdrop:hover ~ .hover-image{
+    height: 100rem;
+}
